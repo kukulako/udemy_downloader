@@ -11,6 +11,7 @@ Click on “Cookies”
 
 Then search for “access_token”. It should look like a random string.
 
+<img src='acces_token.png'></img>
 
 sample access _token:
 access_token=BwlEeqk39otSBB5nnKKphJdb9r460Wdx124vqKop
