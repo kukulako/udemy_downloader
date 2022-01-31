@@ -1,6 +1,8 @@
 # udemy_downloader
 
-This is udemy course downloader, before a start you know how  to get access token.
+This is udemy course downloader. this script created Python programming language.
+
+Before a start you know how  to get access token.
 
 To get the access_token on Google Chrome (once on Udemy.com):
 
