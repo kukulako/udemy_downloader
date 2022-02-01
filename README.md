@@ -22,6 +22,12 @@ sample access _token look likes:
 access_token=BwlEeqk39otSBB5nnKKphJdb9r460Wdx124vqKop
 ```
 
+You have to input this value:
+
+```
+BwlEeqk39otSBB5nnKKphJdb9r460Wdx124vqKop
+```
+
 After that run this command on cmd :
 
 ```
